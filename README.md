@@ -1,1 +1,0 @@
-# YT-Thumbnail-Prompt-Optimizer
